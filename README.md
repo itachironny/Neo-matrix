@@ -6,5 +6,7 @@ This one tries to simulate the vision Neo gets after waking up after being shot 
 
 What we were able to get with our feeble skills at opencv is a watered down, very slow code, which stops working entirely if ou try to save the video.
 
+Again, this is made by Bhaskar Dutta, your's truely, and my partner-in-coding Rounak Adhikary, who is too lazy even to join github.
+
 Take a look.
 But please don't laugh.
