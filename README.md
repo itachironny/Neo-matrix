@@ -7,4 +7,4 @@ This one tries to simulate the vision Neo gets after waking up after being shot 
 What we were able to get with our feeble skills at opencv is a watered down, very slow code, which stops working entirely if ou try to save the video.
 
 Take a look.
-Bit please don't laugh.
+But please don't laugh.
