@@ -4,9 +4,8 @@ We get that github is full of people making some awesome matrix rain sequences, 
 
 This one tries to simulate the vision Neo gets after waking up after being shot by the agents.
 
-What we were able to get with our feeble skills at opencv is a watered down, very slow code, which stops working entirely if ou try to save the video.
-
-Again, this is made by Bhaskar Dutta, your's truely, and my partner-in-coding Rounak Adhikary, who is too lazy even to join github.
+What we were able to get with our feeble skills at opencv is a watered down version of the matrix effects.
+This code is fast enough to execute in real-time though.
 
 Take a look.
 But please don't laugh.
